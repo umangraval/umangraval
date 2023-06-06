@@ -4,4 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:umangraval2000@gmail.com)](mailto:umangraval2000@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-F38020?style=for-the-badge&logo=icloud&logoColor=white)](https://umangraval.com)
 
-![Umang GitHub Stats](https://github-readme-stats.vercel.app/api?username=umangraval&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Umang GitHub Stats](https://github-readme-stats.vercel.app/api?username=umangraval&count_private=true&show_icons=true&include_all_commits=true)
+ -->
